@@ -22,8 +22,8 @@ The terrain in between is littered with dead wood and trails. The layout reminds
 
 @import "plant_people.png"
 
-!!! note This is the admonition title
-    This is the admonition body
+> note This is the admonition title
+> This is the admonition body
 
     C:\Users\Benjamin\Desktop\DnD\ruins.md
 
